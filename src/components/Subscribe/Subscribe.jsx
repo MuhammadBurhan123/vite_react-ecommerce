@@ -18,7 +18,7 @@ const Subscribe = () => {
                     <h1 className='text-2xl text-center sm:text-left sm:text-4xl font-semibold'>
                         Get Notified About New Products
                     </h1>
-                    <input data-aos="fade-up" type="text" placeholder='Enter you email' className='w-full p-3' />
+                    <input data-aos="fade-up" type="text" placeholder='Enter you email' className='w-full p-3 text-primary' />
                 </div>
             </div>
         </div>
