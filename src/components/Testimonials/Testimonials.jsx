@@ -98,7 +98,7 @@ const Testimonials = () => {
                                     <div className='flex flex-col items-center gap-4 '>
                                         <div className='space-y-3 '>
                                             <p className='text-xs text-gray-500'>{data.text}</p>
-                                            <h1 className='text-xl font-bold text-black/80 dark:text-light'>{data.name}</h1>
+                                            <h1 className='text-xl font-bold text-black/80 dark:text-white'>{data.name}</h1>
                                         </div>
                                     </div>
                                     <p className='text-black/20 text-9xl font-serif absolute top-0 right-0'></p>
